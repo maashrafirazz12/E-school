@@ -1,22 +1,4 @@
-@media (max-width: 600px) {
-  .logo {
-    font-size: 16px;
-  } 
-  .link{
-    font-size: 12px;
-    padding:  0.3rem 0.5rem;
-  }
-}
-@media  (max-width:  1024px){
-    .card{
-        width: 350px;
-        height: 350px;}
-    }
-    @media screen {
-        
-    }
 
-    
 
 Body{
     font-family: "Poppins", sans-serif;
@@ -144,7 +126,7 @@ nav ul a{
 }
 .inline2{
     float: left;
-    padding:  80px 80px 80px 180px;
+    padding:  80px 80px 80px 80px;
     
 }
 .last{
